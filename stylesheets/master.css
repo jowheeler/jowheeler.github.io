@@ -1,0 +1,19 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+a { 
+  text-decoration: none; 
+  color: #d1d1d1;
+}
+
+a:hover {
+  color: grey;
+}
+
+.profile { 
+  border: solid 4px #181818;
+  border-radius: 50%; 
+  width: 300px;
+}
